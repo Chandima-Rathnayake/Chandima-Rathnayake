@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | Web Desktop Developer | Mobile App Developer | Competitive Programmer 🚀</h3>
 
 <div>
-  <img width="35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
+  <img width="35%" align="right" alt="PIC" height="300px" src="https://www.pexels.com/photo/close-up-photo-of-programming-of-codes-546819/" />
   <div align="left"> <br>
     <h3> 👨🏻‍💻 About Me </h3>
     <ul>
