@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | Web Desktop Developer | Mobile App Developer | Competitive Programmer 🚀</h3>
 
 <div>
-  <img width="35%" align="right" alt="PIC" height="300px" src="[![pexels-luis-gomes-166706-546819.jpg](https://i.postimg.cc/VkNnhgRx/pexels-luis-gomes-166706-546819.jpg)](https://postimg.cc/1fL8npbB)" />
+  <img width="35%" align="right" alt="PIC" height="300px" src="https://i.postimg.cc/VkNnhgRx/pexels-luis-gomes-166706-546819.jpg" />
   <div align="left"> <br>
     <h3> 👨🏻‍💻 About Me </h3>
     <ul>
