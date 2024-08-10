@@ -53,7 +53,7 @@
  </div>
 
 <div> <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&theme=tokyonight&hide_border=false&layout=compact&hide_border=true&langs_count=10" alt="Chandima's Top Langs" width="37%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandima-Rathnayake&theme=tokyonight&hide_border=false&layout=compact&hide_border=true&langs_count=10" alt="Chandima's Top Langs" width="37%" />
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 </div>
 
