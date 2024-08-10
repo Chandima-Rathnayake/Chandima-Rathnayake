@@ -13,7 +13,7 @@
       <li>🏏 &nbsp; Enjoy playing cricket and watching films in my free time.</li>
       <li>🛫 &nbsp; Love traveling and pursuing Competitive Programming as hobbies/side hustles.</li>
 
-    </ul>
+    
   </div> 
 </div><br>
 
